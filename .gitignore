@@ -40,3 +40,4 @@ Thumbs.db
 # Secrets and credentials
 .env
 *.pem
+secret.py
