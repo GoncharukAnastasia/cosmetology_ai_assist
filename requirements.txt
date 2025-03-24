@@ -1,0 +1,7 @@
+telebot==0.0.5
+faiss-cpu==1.7.4
+numpy==1.26.4
+langchain==0.1.16
+sentence-transformers==2.7.0
+python-dotenv==1.0.1
+sqlite3
